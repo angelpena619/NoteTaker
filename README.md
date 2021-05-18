@@ -1,7 +1,7 @@
 
-  # Team Profile Generator
+  # Note Taker Express JS
   ##  Description
-   this will allow a user to add employees by role, and dynamiclly create an HTML page with employee information cards. 
+   add description here 
 
   ## Table of Contents
 
