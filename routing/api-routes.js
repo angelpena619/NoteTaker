@@ -3,25 +3,12 @@ var data = require("../db/db.json");
 
 const router = require("express").Router();
 
-
+console.log("hola")
 
 router.get("/notes", function (req, res) {
-  fs.readFile(data, "utf8")
-    .then(function (notes) {
-      let userNotes = [];
+  console.log(data)
+  res.status(250).send(data)
 
-      try {
-        userNotes = userNotes.concat(JSON.parse(notes));
-      } catch (err) {
-        userNotes = [];
-      }
-    })
-    .then(function (notes) {
-      return res.JSON(notes);
-    })
-    .catch(function (err) {
-      return res.status(500).json(err);
-    });
 });
 
 router.get("/notes/:id", function (req, res) {
