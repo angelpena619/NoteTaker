@@ -1,5 +1,8 @@
 
-  # Note Taker using Express JS
+ 
+ [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+ # Note Taker using Express JS
   ##  Description
    using Node and Express JS we were asked to connect the back end to the front end. Also creating a local server and routing the files. we where then asked to deploy a site
    using Heroku link to launched app below:
@@ -15,23 +18,23 @@
   ## Table of Contents
 
 
- *[Insallation](#Insallation)
+  * [Insallation](#Insallation)
  
- *[Usage](#Usage)
+  * [Usage](#Usage)
 
- *[License](#License)
+  * [License](#License)
 
- *[Contributing](#Contributing)
+  * [Contributing](#Contributing)
 
- *[Test](#Test)
+  * [Test](#Test)
 
- *[Questions](#Questions)
+  * [Questions](#Questions)
 
   
   ## License
    This project is licensed under the 
    
-  MIT License
+ [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
   ## Insallation
    To install necessary dependencies run the following command: 
