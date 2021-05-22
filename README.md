@@ -1,49 +1,52 @@
 
-  # Note Taker Express JS
+  # Note Taker using Express JS
   ##  Description
-   add description here 
+   using Node and Express JS we were asked to connect the back end to the front end. Also creating a local server and routing the files. we where then asked to deploy a site
+   using Heroku link to launched app below:
+   
+   
+  https://immense-meadow-80851.herokuapp.com/
+   
+   ## Screenshot
+   
+   ![](public/assets/image/note-screenshot.JPG)
 
-https://immense-meadow-80851.herokuapp.com/
 
   ## Table of Contents
 
 
-  *[Insallation](#Insallation)
+ *[Insallation](#Insallation)
  
-  *[Usage](#Usage)
+ *[Usage](#Usage)
 
-  *[License](#License)
+ *[License](#License)
 
-  *[Contributing](#Contributing)
+ *[Contributing](#Contributing)
 
-  *[Test](#Test)
+ *[Test](#Test)
 
-  *[Questions](#Questions)
+ *[Questions](#Questions)
 
   
   ## License
    This project is licensed under the 
    
-MIT License
+  MIT License
 
   ## Insallation
    To install necessary dependencies run the following command: 
    
-npm i -y 
+    npm i -y 
 
   ## Test
    To run tests, run the following command: 
 
-
-   ![](public/assets/image/note-screenshot.JPG)
-
+     node server.js
    
-npm run test
-
   ## Usage
    Here are some steps for the user: 
    
-nothing to know
+  download Repo and Run npm i to install modules then node server.js to launch port
 
   ## Contributing
    nothing to contribute 
